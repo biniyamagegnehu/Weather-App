@@ -83,3 +83,16 @@ body {
     margin: 5px;
     padding: 3px 0;
 }
+
+.all-weather {
+    display: none;
+}
+
+.error {
+    text-align: left;
+    margin-left: 15px;
+    padding-left: 50px;
+    font-size: 14px;
+    font-weight: bold;
+    display: none;
+}
